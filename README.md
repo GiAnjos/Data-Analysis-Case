@@ -18,6 +18,6 @@ The app should open like this:
 ![img_app](https://github.com/GiAnjos/Data-Analysis-Case/assets/93729823/9aab6f5d-67b7-4797-b0b4-6204331a15b7)
 
 
-Don't forget to get the "decision_science_dataset.csv" data in order to run all the files in this repository and don't forget to run "plotly_task.ipynb" or "matplotlib_task.ipynb" at least once so you can create some csv files that are important to run the app.
+Don't forget to get the "decision_science_dataset.csv" data in order to run all the files in this repository and don't forget to run "plotly_task.ipynb" or "matplotlib_task.ipynb" at least once so you can create the clusters as csv files and then you can run the app.
 
 
