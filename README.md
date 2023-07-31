@@ -11,7 +11,7 @@ And here is the plotly version:
 
 ![image](https://github.com/GiAnjos/Data-Analysis-Case/assets/93729823/1cefa121-2613-49a6-a7c0-13b508ccb35d)
 
-Finally, in this repository you can also find a dashboard created with Dash/Plotly with all the analysis made before. To run the dashboard you must have all the files from the assets folder and just run the "app_v12.ipynb".
+Finally, in this repository you can also find a dashboard created with Dash/Plotly with all the analysis made before. To run the dashboard you must have all the files from the assets folder and just run the "app.ipynb".
 
 
 The app should open like this:
